@@ -4,7 +4,7 @@
 
 I'm a passionate web developer with a strong interest in frontend and llm. I enjoy creating innovative solutions and contributing to open-source projects.
 
-- 🔭 I’m currently working on [Fadmoor LLMs](https://github.com/NoobMaester/umusare-beta)
+- 🔭 I’m currently working on [freelance drivers platform](https://github.com/NoobMaester/umusare-beta)
 - 🌱 I’m currently learning fullstack development
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [Email](mailto:tsafarialadin@gmail.com)
